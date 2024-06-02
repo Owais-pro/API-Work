@@ -14,7 +14,7 @@ axios('https://fakestoreapi.com/products')
           <h5 class="card-title" id="title">${items.title}</h5>
           <h4 class="card-title" id="price"> Price: ${items.price}$</h4>
           <p class="card-text">${items.description}</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <a href="#" class="btn btn-primary">Shop Now</a>
         </div>
       </div>
         
