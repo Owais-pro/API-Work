@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#image{
+    max-width: 60%;
+    height: auto;
+    align-self: center;
+    margin-bottom: 10px;
+}
+#category{
+    text-transform: capitalize;
+    color: red;
+    text-align: center;
+    margin-block: 10px;
+}
+#title{
+    color: cadetblue;
+}
+#price{
+    color: rgb(199, 173, 31);
+}
